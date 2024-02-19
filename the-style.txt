@@ -1,1 +1,8 @@
-This part to choice my stack for the style is very important
+For my MERN Project what's style I gonna to use ?
+
+Tailwind CSS 
+SCSS
+CSS in JS
+Style Compenent 
+
+?
